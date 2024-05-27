@@ -70,3 +70,4 @@ data/*.mp4
 
 # 忽略其他文件
 .clang-format
+sort

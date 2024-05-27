@@ -37,3 +37,6 @@ $ ./sort
 
 ### 生成google合适的.clang-format
 `clang-format -style=google -dump-config > .clang-format`
+
+### 下载数据
+`wget https://motchallenge.net/sequenceVideos/PETS09-S2L1-raw.mp4 -O data/PETS09-S2L1-raw.mp4`
